@@ -1,0 +1,9 @@
+.flex-containers {
+    display: flex; 
+    flex-direction: row;      
+  }
+  
+  .items{
+    margin-right: 5px; 
+       
+  }
