@@ -1,6 +1,6 @@
 
 
-const WEATHER_API_URL = 'http://api.weatherapi.com/v1';
+const WEATHER_API_URL = 'https://api.weatherapi.com/v1';
 const WEATHER_API_KEY = '8769982d2a374fc88c5152633232808';
 
 
